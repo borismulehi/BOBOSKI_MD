@@ -23,7 +23,7 @@
 ## BOBOSKI_MD Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/borismulehi/BOBOSKI_MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/pair) 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://queen-anita-server-2.onrender.com/pair) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/borismulehi/BOBOSKI_MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaH1iNI05MUX4zLNxR3V) for more**
