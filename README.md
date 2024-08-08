@@ -28,7 +28,11 @@
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/borismulehi/BOBOSKI_MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaH1iNI05MUX4zLNxR3V) for more**
 9. **All Tutorials Are `COMING SOON`**
+### DEPLOY ON RENDER
 
+1. If you don't have an account in RENDER, create one and deploy.
+    <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
