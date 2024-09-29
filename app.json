@@ -1,11 +1,11 @@
 {
-  "name":"BOBOSKI_MD",
-  "description":"Deploy now your BOBOSKI _MD,Brought to you by the Boris Mulehi.Make sure you fill all valuables to avoid bot from sleeping. ",
-  "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/YKVlucn.jpeg",
-  "repository":"https://github.com/borismulehi/BOBOSKI_MD",
-  "succes_url":"/",
-  "stack":"container",
+  "name": "BOBOSKI_MD",
+  "description": "An easy and simple WhatsApp bot developed by Boris Mulehi",
+  "keywords": ["bot", "node", "baileys", "whatsapp"],
+  "logo": "https://files.catbox.moe/nqgz89.jpg",
+  "repository": "https://github.com/borismulehi/BOBOSKI_MD",
+  "success_url": "/",
+  "stack": "container"
   "env":{
     "PREFIX":
     {
